@@ -1,0 +1,23 @@
+update : 20261028
+
+제미나이, 아래 내용을 참고하여 1000X1000 픽셀로 다른 구도로 이미지를 제출하라.
+단순 simple 합성하지 말고, 자연스러운 배경에 자연스러운 인물 구도로 하라.
+
+Using the two attached reference photos (one showing a person, and one showing a product), combine them into a single cohesive, high-quality studio photograph:
+
+1. Subject & Product Preservation:
+- Identify the person from the attached photos and preserve their exact facial features, skin tone, hairstyle, and overall identity without any distortion or modification[cite: 1].
+- Identify the product from the attached photos and keep it identical to the original reference: maintain the exact shape, color, branding, labeling, materials, and fine details[cite: 1].
+
+2. Interaction, Scale & Pose:
+- The person should be looking directly at the camera with a straight-on, eye-level angle and a natural, friendly smile[cite: 1].
+- Realistic Physical Interaction & Weight: The person's hands must physically and naturally grip the product, with visible pressure making the fabric slightly depress and conform to the hands, showing authentic weight and tactile connection[cite: 1].
+- Realistic Scale: Render the product strictly in its realistic, real-world average proportion relative to the person's hands and upper body[cite: 1].
+
+3. Background & Framing:
+- Place the subject against a clean, soft neutral-toned studio background with a subtle gradient and a natural studio floor, avoiding harsh pure-white cutout looks[cite: 1].
+- Upper-body portrait framing, centered within a square 1:1 ratio, leaving balanced negative space[cite: 1].
+- Unified global studio lighting, ensuring the light direction, highlights, and color temperature match seamlessly between the person and the product, complete with realistic contact shadows and ambient occlusion where the hands touch the product[cite: 1].
+
+4. Negative Directives:
+- No background clutter, no artificial beauty filters, no anatomical distortion, no extra fingers, no text overlays, no watermarks, no isolated cutout look[cite: 1].

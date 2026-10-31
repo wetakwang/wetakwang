@@ -1,0 +1,29 @@
+update : 20261027
+
+ATTACHED PHOTOS:
+- Photo 1: Generated Scene 1 image from Prompt (4) (background & environment reference)
+- Photo 2: Tak-CEO profile photo (person reference)
+- Photo 3: Original product image (product reference)
+
+Using the attached reference photos (the presenter "Tak-CEO", the product, and the scene from Photo 1), generate a matching live-action presenter portrait optimized for digital avatar speech:
+
+1. Background & Environment Continuity:
+- The background MUST be the EXACT SAME physical space and lighting shown in Photo 1 (same wall tone, furniture, and atmosphere).
+- Solo Presenter Framing: The other supporting characters from Scene 1 must NOT appear in this frame. Only Tak-CEO is present.
+
+2. Subject & Product Preservation:
+- The presenter is strictly the identical Tak-CEO from Photo 2: same face, age, haircut, and build.
+- Upper-body bust/mid-shot composition, centered vertically in a 9:16 aspect ratio.
+- Place the identical product from Photo 3 right beside him (e.g., on the counter/table next to him) in realistic proportion, clearly visible without blocking his torso or face.
+
+3. Avatar-Ready Pose & Facial Expression:
+- Looking directly straight into the camera lens with clear eye-level contact.
+- Natural, dependable, warm expression with relaxed, gently closed lips (Neutral mouth position, ideal for digital lip-syncing).
+- Stable, centered presenter posture suitable for a full-screen talking video.
+
+4. Style & Negative Directives:
+- Photorealistic live-action film still, authentic indoor lighting matching Photo 1, sharp focus on face, natural skin pores.
+- NOT an illustration, NOT 3D CGI, NOT cartoon, NOT anime.
+- No other people in background, no text overlays, no subtitles, no UI bars, no watermarks, no distorted hands.
+
+Gemini, Generate the image now following all instructions above.

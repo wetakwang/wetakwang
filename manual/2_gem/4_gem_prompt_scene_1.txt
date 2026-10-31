@@ -1,0 +1,37 @@
+update : 20261028
+
+[역할 및 지시]
+앞서 제시된 3가지 스토리 시안 중 사용자가 선택한 시안 정보를 바탕으로, 이미지를 생성하라.
+
+[선택된 시안 정보 반영 규칙]
+- Setting: 선택된 시안의 공간 배경을 구체적인 영문 실내 묘사로 변환
+- Characters & Action: 
+  * 선택된 시안의 조연 인물(외모, 복장, 고충 행동)을 영문으로 묘사
+  * 탁대표가 제품을 들고 오거나 설치/작동시키는 따뜻하고 든든한 행동을 영문으로 묘사
+- Composition: Vertical 9:16 aspect ratio
+
+---
+
+ATTACHED PHOTOS:
+- Photo 1: Tak-CEO profile photo (person reference)
+- Photo 2: Original product image (product reference)
+
+Using the two attached reference photos (one showing the presenter "Tak-CEO", and one showing the product), generate a photorealistic live-action documentary-style scene:
+
+1. Consistency & Identity:
+- Identify the man from the reference photo: strictly preserve his exact face, hair, and build (Korean man in his 50s, friendly appearance).
+- Identify the product from the reference photo: keep the product completely identical in shape, color, buttons, scale, and design. Do not modify or hallucinate details.
+
+2. Scene Setup & Action:
+- Setting: {{선택된 시안의 공간 배경 영문 묘사}}
+- Characters & Action: 
+  * {{선택된 시안의 조연 인물 외모 및 고충 행동 영문 묘사}}
+  * Tak-CEO is {{선택된 시안의 탁대표 해결/설치 행동 영문 묘사}}, looking dependable and warm.
+- Composition: Vertical 9:16 aspect ratio. Eye-level, natural perspective showing both the space atmosphere and the realistic interaction.
+
+3. Style & Negative Directives:
+- Photorealistic live-action film still, natural skin texture, soft indoor lighting, authentic documentary look.
+- NOT an illustration, NOT a 3D render, NOT cartoon, NOT animation.
+- No text overlays, no subtitles, no UI elements, no watermarks, no distorted hands.
+
+Gemini, Generate the image now following all instructions above.

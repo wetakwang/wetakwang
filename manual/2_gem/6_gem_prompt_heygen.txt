@@ -1,0 +1,32 @@
+update : 20261027
+cite 표시 없이, 반드시 코드블럭형태로 제출하라
+
+ATTACHED ASSETS:
+- Image 1 (SCENE1.jpg): Visual reference for Shot 1 scene (generated from Prompt 4).
+- Avatar: Selected custom Tak-CEO avatar (registered in HeyGen using the image from Prompt 5).
+
+FORMAT & AUDIO:
+- Aspect Ratio: 9:16 vertical, strictly 18-20 seconds.
+- Voice Constraint: Single narration voice (Tak-CEO Korean male voice only). The supporting character has NO spoken voiceover.
+
+SHOT 1 (0-8s) - Live-action B-roll [Ref: Image 1]:
+Animate Image 1 into photorealistic live-action footage. 
+[선택된 시안 기반 움직임 영문 묘사 - 예: The man gently sets down the appliance on the counter and presses the button, while the mother watches with a relieved smile.]
+- Voiceover (Tak-CEO):
+  "[선택된 시안의 씬 1 대사]"
+
+SHOT 2 (8-20s) - Presenter [Selected Tak-CEO Avatar]:
+Direct cut to full-screen of the registered Tak-CEO avatar in the exact same environment without cutting away. Natural digital speech animation, accurate lip-sync, and subtle torso movements:
+- Spoken Dialogue:
+  "[선택된 시안의 씬 2 핵심 장점 대사]. 네이버에 탁대표 [상품명] 검색해 보세요."
+- On-Screen UI (16-20s):
+  Overlay an authentic Naver green search bar UI at the bottom of this same screen with animated typing: '탁대표 [상품명]'.
+- Subtitles:
+  Accurate Korean subtitles synchronized with dialogue at the bottom.
+
+---
+[CRITICAL NEGATIVE CONSTRAINTS - STRICTLY ENFORCED]
+- Exactly 2 continuous shots only (Shot 1 B-roll -> Shot 2 Avatar). Do NOT create a separate ending screen or background change.
+- All footage must be photorealistic live-action of real people.
+- Absolutely NO 2D illustration, NO cartoon, NO anime, NO 3D CGI animation, NO flat motion graphics, NO stock vector art.
+- If any scene cannot be rendered photorealistically, STOP and notify instead of substituting with illustration.

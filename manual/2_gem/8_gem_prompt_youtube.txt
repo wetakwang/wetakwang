@@ -1,0 +1,24 @@
+update : 20261027
+
+ATTACHED PHOTO:
+- Photo 1: Generated Scene 1 image from Prompt 4
+
+Using the attached reference photo, analyze the situation and generate a high-converting vertical YouTube Shorts thumbnail (9:16 aspect ratio):
+
+1. Subject & Environment Continuity:
+- Maintain identical characters, facial features, outfits, environment, and product from Photo 1.
+- Crop into a dynamic medium-tight framing to emphasize emotional expressions and the featured product.
+
+2. AI-Driven Bold Thumbnail Typography (Korean Text Overlay):
+- Analyze the user's pain point and the product in Photo 1, then create and render the most clickable, high-CTR Korean hook copy at the top:
+  * Main Headline: A punchy, urgent Korean hook (max 6-8 syllables) highlighting the emotional pain or shock in bright yellow or white with heavy drop shadow/stroke.
+  * Sub-badge: A short supporting curiosity-inducing question or exclamation (max 8-10 syllables) in a high-contrast badge.
+- Place text strictly in the upper third without covering faces or the product.
+
+3. Visual Polish & Negative Directives:
+- Photorealistic live-action documentary style with punchy mobile contrast.
+- Crisp, readable Korean fonts without garbled characters.
+- NOT illustration, NOT 3D render, NOT cartoon.
+- No blurry text, no extra limbs, no distorted fingers.
+
+Gemini, Generate the image now following all instructions above.

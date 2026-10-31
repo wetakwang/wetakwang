@@ -1,0 +1,27 @@
+update : 20261028
+
+제미나이, 아래 내용을 참고하여 1000X1000 픽셀로 다른 구도로 이미지를 제출하라.
+
+ATTACHED PHOTO:
+- Photo 1: [Reference product image]
+
+Using the attached photo, recreate a completely new, professional commercial studio catalog photograph on a pure solid white background (#FFFFFF):
+
+1. Product Integrity & Strict Realism:
+- Keep the [main product / appliance / item] and all included accessories identical in design, color scheme, materials, textures, and brand markings shown in the reference. Do not hallucinate, alter, or omit real features.
+
+2. Fresh Studio Re-composition:
+- Arrange the components in a clean, balanced commercial catalog layout:
+  * Place the [main assembled product / hero item] centrally as the primary subject.
+  * Neatly arrange [key accessories / attachments / packaging / companion items] beside or slightly behind the main unit with professional spacing.
+- Angle: Crisp straight-on eye-level view with a subtle 15-degree three-quarter turn to emphasize 3D depth, volume, and material quality.
+
+3. Framing, Lighting & Negative Space:
+- Aspect Ratio: [1:1 square / 4:5 / 16:9].
+- The entire product set must occupy around 55-65% of the frame with generous, clean white margins all around—no parts cropped or touching the edges.
+- Lighting: Bright, soft commercial studio key and rim lighting, showing true material finishes.
+- Grounding: Realistic, subtle contact shadows grounded on the white surface to avoid a floating look.
+
+4. Negative Directives:
+- Pure solid white background (#FFFFFF) only.
+- No colored backdrops, no environmental props, no hands/models, no text, no logos/watermarks not present on the actual product.
